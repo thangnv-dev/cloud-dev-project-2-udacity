@@ -41,4 +41,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Link to run Elastic Beanstalk Deployment
 
-http://project2udacityclouddev-v11-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.imgflip.com/3xjh12.jpg
+http://project2udacityclouddev-v11-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
